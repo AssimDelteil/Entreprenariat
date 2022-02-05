@@ -8,10 +8,13 @@ L'objectif étais d'obtenir une idée, de la confronter au marché avec des étu
 
 Notre idée étant un réseaux social basé sur le dessin, sur lequel l'utilisateur pourrais dessiner (vous pouvez en apprendre plus en lisant l'executive summary), nous avons pus développer un prototype de cette application. Nous avons utilisé React Native et vous pouvez trouvez le code dans le dossier "code" ainsi que l'application sous forme d'APK. 
 
-Mon rôle dans cette équipe était:
-        - Chef de projet : diriger les réunions, répartir et vérifier le travail, veillez à la bonne cohésion de l'équipe.
-        - Développeur principal : développement de la partie dessin (avec pinceau, gomme, couleur, épaisseur, opacité et calques). Pour voir cela, allez sur l'onglet dessin (le 3ème et cliquez sur nouveau projet)
-        - Résponsable des projections financières : estimer les gains fait par notre application en s'appuyant sur des recherches sur nos dépenses ainsi que la croissance de concurrents 
+Mon rôle dans cette équipe était : 
+
+-Chef de projet : diriger les réunions, répartir et vérifier le travail, veillez à la bonne cohésion de l'équipe.
+ 
+-Développeur principal : développement de la partie dessin (avec pinceau, gomme, couleur, épaisseur, opacité et calques). Pour voir cela, allez sur l'onglet dessin (le 3ème et cliquez sur nouveau projet)
+
+-Résponsable des projections financières : estimer les gains fait par notre application en s'appuyant sur des recherches sur nos dépenses ainsi que la croissance de concurrents 
 
 Nous avons gagné le premier prix de 6000€ pour notre travail. 
 
